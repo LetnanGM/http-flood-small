@@ -13,3 +13,13 @@ First of all you have to clone my repository using git
 ```text
 git clone https://github.com/LetnanGM/http-flood-small.git
 ```
+
+and next, enter the folder using the cd (change directory) command
+```text
+cd http-flood-small
+```
+
+after that, just run it, using python command
+```text
+python main.py
+```
